@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346381352221",
+    "project_id": "hdiet-5758a",
+    "storage_bucket": "hdiet-5758a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346381352221:android:d29cda6ce549ec3bfcf5f4",
+        "android_client_info": {
+          "package_name": "com.hdiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346381352221-f6une3mh0i049n1h423fvj4s9lfv336l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfuOIn0xulb1T_LWZhtATYmkwsGIDZds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346381352221-f6une3mh0i049n1h423fvj4s9lfv336l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
